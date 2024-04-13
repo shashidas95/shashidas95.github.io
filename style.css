@@ -68,4 +68,6 @@
     padding-bottom: 4rem;
 }
 .nav-link{
-color:white;}
+color:white !important;
+
+}
